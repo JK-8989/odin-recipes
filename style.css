@@ -64,3 +64,7 @@ li {
 .source {
   color: rgb(180, 110, 24);
 }
+#egg {
+  font-size: 0.7em;
+  margin-left: 48%;
+}
