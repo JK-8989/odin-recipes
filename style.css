@@ -58,3 +58,9 @@ li {
   color: grey;
   margin-left: 360px;
 }
+.reference {
+  font-size: 1em;
+}
+.source {
+  color: rgb(180, 110, 24);
+}
