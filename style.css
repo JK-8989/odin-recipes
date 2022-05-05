@@ -1,3 +1,45 @@
-#sandwich, #dinner {
-  width:600px;
+#title {
+  text-align: center;
+  margin-top: 13%;
+  font-size: 2em;
+}
+#subtitle {
+  margin-bottom: 50px;
+}
+h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+span {
+  font-size: 0.8em;
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#sandwich,
+#dinner {
+  width: 600px;
+}
+#main_list {
+  margin-left: 16%;
+  margin-top: 3em;
+  font-size: 1.2em;
+}
+.ml_items {
+  padding: 15px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.container {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
